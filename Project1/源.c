@@ -46,7 +46,7 @@ int main(void)
 				exit(0);
 			}
 		}	
-		printf("Thank for your use!");
+		printf("Thank for your use!"); 
 		getchar();
 			exit(0);
 	}
